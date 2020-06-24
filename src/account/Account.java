@@ -40,5 +40,12 @@ public class Account {
             balance=balance-amount;
 
         } 
+        
+        public double findBalance()
+        {
+            balance = balance + (balance*interestRate);
+            
+            return balance;
+        }
     
 }//class end
