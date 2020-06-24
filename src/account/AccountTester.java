@@ -8,6 +8,7 @@ import java.util.Scanner;
 /**
  * date: June 24
  * @author Sivagama
+ * @modified by Prit Patel
  */
 public class AccountTester {
     

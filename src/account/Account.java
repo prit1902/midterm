@@ -8,6 +8,7 @@ package account;
 /** Improve the code by applying suitable design principles
  * date: June 24
  * @author Sivagama
+ * @modified by Prit Patel
  */
 public class Account {
 
